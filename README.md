@@ -2,6 +2,8 @@
 
 A real-time, voice-based knowledge assistant built with LangGraph that orchestrates retrieval, memory, reasoning, and tool execution as a single stateful agentic workflow over streaming speech.
 
+> **Authored by Shashwat Tripathi, IIT Bombay**
+
 ## Features
 
 - 🎙️ **Voice-Driven Interface**: Real-time streaming speech input with stateful agentic processing
