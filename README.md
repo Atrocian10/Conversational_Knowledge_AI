@@ -23,8 +23,7 @@ A real-time, voice-based knowledge assistant built with LangGraph that orchestra
 
 ### Installation
 ```bash
-git clone https://github.com/expectbugs/agents.git
-cd agents
+git clone https://github.com/Atrocian10/Conversational_Knowledge_AI
 
 # Install Python dependencies
 pip install -r requirements.txt
